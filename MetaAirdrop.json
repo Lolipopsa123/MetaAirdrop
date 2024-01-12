@@ -1,0 +1,22 @@
+{
+    "name": "Meta Coin Airdrop",
+    "description": "Congratulations! You can mint your $~2892 NFT at https://metairdrop.org",
+    "image": "https://i.ibb.co/YTns8Cz/Meta-Airdrop.jpg",
+    "external_url": "https://metairdrop.org",
+    "attributes": [
+        {
+            "key": "Rarity :",
+            "trait_type": "Rarity :",
+            "value": "Legendary"
+        },
+        {
+            "trait_type": "Reward",
+            "value": "$3000"
+        },
+        {
+            "key": "Website:",
+            "trait_type": "Website :",
+            "value": "https://metairdrop.org"
+        }
+    ]
+}
